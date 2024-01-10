@@ -1,0 +1,5 @@
+twinkle twinkle little star
+
+commit -> jo file yaha create ki thi woh local repo (computer) usme save krna h 
+pehle file commit nhi h commit krne ke liye 
+use git add .
